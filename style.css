@@ -1,0 +1,39 @@
+body {
+  font-family: Arial;
+  background-color: #89CFF0;
+}
+.ggg {
+  text-align: center;
+  background-color: #2387b6;
+  border-radius: 5px;
+  border: 1.75px dashed black;
+  padding: 10px;
+}
+p {
+  margin: 2px;
+}
+.jjd {
+  text-align: center;
+  background-color: #2387b6;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1.75px dashed black;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+.img {
+  width: 100px;
+}
+.center {
+  text-align: center;
+  margin: 15px;
+}
+.main {
+  background-color: #369ed687;
+  border-radius: 5px;
+  border: 1.75px solid black;
+  padding: 10px;
+}
+.image {
+  width: 200px;
+}
